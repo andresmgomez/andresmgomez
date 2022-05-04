@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div>
+<div display="inline-block">
 <div align="left">
 **Front-end languages, libraries, and tools**
 <p>
