@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
 <div align="left">
 **Front-end languages, libraries, and tools**
 <p>
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
           <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;             
 </p>
-   
 
 <div align="right">
 **Back-end runtimes and libraries**
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 </div>
+ 
 **📈 Github Stats**
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresmgomez&layout=compact&hide_border=true&show_icons=true&theme=react"   width="48%" height="192px"/>
