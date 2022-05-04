@@ -13,17 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
 **Front-end languages, libraries, and tools**
 <p align="left">
-      <p>
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40"      height="40" /></code>&nbsp;
-    <code><img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="SASS" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
+            <p>
+              <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
+              <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
+              <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40"      height="40" /></code>&nbsp;
+          <code><img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="SASS" width="40" height="40" /></code>&nbsp;
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
+          <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
+            </p>
       </p>
-</p>
+
 **Back-end runtimes and libraries**
 <p align="right">
  <p>
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
  </p>
 </p>
 
-
+</div>
 **📈 Github Stats**
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresmgomez&layout=compact&hide_border=true&show_icons=true&theme=react"   width="48%" height="192px"/>
