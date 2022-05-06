@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Front-end languages, libraries, and tools**
 
-<div align="left">
+<div align="center">
 <p>
              <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
               <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
