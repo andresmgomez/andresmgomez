@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 **Front-end languages, libraries, and tools**
 
 <div>
-  <div align="right">
+  <div align="left">
 <p>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div/>
   
 **Back-end runtimes and libraries**
-<div align="center">
+<div align="left">
 <p><code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
