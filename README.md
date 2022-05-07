@@ -2,6 +2,12 @@
 
 **andresmgomez/andresmgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+😎 About Me
+
+I'm a web developer with some experience building mostly websites and some blogs. i have used HTML, CSS, Bootstrap in designing how the website looks, and JavaScrip and some jQuery in how interactive it becomes when the user is sliding through the carrousel, making the navbar menus to be on top, special effects when texts and images appear on any side of the page with different movements, and loading other libraries that do more fancy stuff.
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
