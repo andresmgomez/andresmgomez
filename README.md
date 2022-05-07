@@ -2,7 +2,7 @@
 
 😎 About Me
 
-<h3>I'm a Front-end guy that has some experience building mostly websites and some blogs. I have used HTML, CSS, Bootstrap in designing how the website looks, and JavaScript and some jQuery in how interactive it becomes when the user is sliding through the carrousel, making the navbar menus to be on top, special effects when texts and images appear on any side of the page with different movements.<h3>
+<h6>I'm a Front-end guy that has some experience building mostly websites and some blogs. I have used HTML, CSS, Bootstrap in designing how the website looks, and JavaScript and some jQuery in how interactive it becomes when the user is sliding through the carrousel, making the navbar menus to be on top, special effects when texts and images appear on any side of the page with different movements.</h6>
 
 🚴🏽‍♂️ What I'm currently doing
 
