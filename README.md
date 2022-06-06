@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmgomez&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook"  width="48%" height="192px"/>
 </p>
 
+<br />
+
 **👨🏽‍💻 Languages And Tools**
 
 <div align="center" width="700px">
