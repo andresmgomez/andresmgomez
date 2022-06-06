@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on building cool projects for my portfolio
 - 👯 I’m looking to collaborate on any projects, specially in APIs
 
+<br />
 
 **📈 Github Stats**
 
