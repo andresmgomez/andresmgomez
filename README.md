@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Engineering 👨🏽‍ at Boca Code 🏢
-- - 🔭 I’m currently working on building cool projects for my portfolio
+- 👨🏽‍ I’m currently learning Software Engineering at Boca Code 🏢
+- 🔭 I’m currently working on building cool projects for my portfolio
 - 👯 I’m looking to collaborate on any projects, specially in APIs
 
 **📈 Github Stats**
