@@ -4,8 +4,8 @@
 
 
 # Hello World! 👋🏼, I'm Miguel
-#### a Software Engineer with Web Dev experience,  
-#### I'm from Colombia 🇨🇴, and likes to build web templates 
+### a Software Engineer with Web Dev experience,  
+### I'm from Colombia 🇨🇴, and likes to build web templates 
 
 <h2 align-"left">My Stats</h2>
 
