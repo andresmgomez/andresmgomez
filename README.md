@@ -2,12 +2,19 @@
 ![web pages built](https://img.shields.io/badge/web%20pages%20built%20-16-green)		
 ![hours of coding](https://img.shields.io/badge/hours%20of%20coding-1350-orange)
 
-
 # Hello World! 👋🏼, I'm Miguel
-### a Software Engineer with Web Dev experience,  
-### I'm from Colombia 🇨🇴, and likes to build web templates 
 
-<h2 align-"left">My Stats</h2>
+### 🧑🏽‍💻 A Little About Myself
+#### I'm a Software Engineer, from Colombia 🇨🇴, that builds Web Pages and Mobile Apps 
+
+### 🏝 What I like to do
+
+* 🎙 listen to stand up podcasts and comedians 😂
+* 📺 Watch trip reviews of different countries 🏞
+* 🎧 listen to old skool rock, hip hop from 90s 💿
+* 💻 Sometimes watch sports on weekends ⚽️ 🏀 🏈
+
+<h2 align="left">My Stats</h2>
 
 ![Andresmgomez GitHub stats](https://github-readme-stats.vercel.app/api?username=andresmgomez&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
 
