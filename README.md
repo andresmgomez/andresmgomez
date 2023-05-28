@@ -14,21 +14,23 @@
 * 🎧 listen to old skool rock, hip hop from 90s 💿
 * 💻 Sometimes watch sports on weekends ⚽️ 🏀 🏈
 
-<h2 align="left">My Stats</h2>
+<h2 align="left"> 📈 My Stats</h2>
 
-![Andresmgomez GitHub stats](https://github-readme-stats.vercel.app/api?username=andresmgomez&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
-
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=andresmgomez&hide=contribs&show_icons=true&theme=nord" height="195px" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmgomez&theme=nord&layout=compact" height="195px" />
+</div>
+ 
 <h2 align="left">My Editor</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 <h3 align="left">Front-end Skills</h3>
-  
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- 
+
 <h3 align="left">Front-end Stack</h3>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
