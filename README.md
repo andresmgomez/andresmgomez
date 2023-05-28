@@ -16,11 +16,13 @@
 
 <h2 align="left"> 📈 My Stats</h2>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=andresmgomez&hide=contribs&show_icons=true&theme=nord" height="195px" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmgomez&theme=nord&layout=compact" height="195px" />
-</div>
- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmgomez&hide=contribs&show_icons=true&theme=nord" height="auto" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmgomez&theme=nord&layout=compact" height="auto" />
+</a>
+
 <h2 align="left">My Editor</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
